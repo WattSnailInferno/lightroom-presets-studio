@@ -36,4 +36,4 @@ Next-generation **Lightroom Presets Studio** creative workspace delivering AI-po
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.    
+> This repository is provided for educational and utility purposes only. Use at your own discretion.     
